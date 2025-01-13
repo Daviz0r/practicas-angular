@@ -1,0 +1,20 @@
+/* You can add global styles to this file, and also import other style files */
+.botoncito {
+    text-align: center;
+}
+
+.botoncito button {
+    align-items: center;
+    background-color: rosybrown;
+    width: 100px;
+    height: auto;
+    box-sizing: initial;
+    border-radius: 5px;
+    border-bottom-right-radius: 10px;   
+}
+.botoncito button:hover {
+    background-color: greenyellow;
+    border-spacing: 100px;
+    text-decoration: double;
+    box-shadow: black;
+}
